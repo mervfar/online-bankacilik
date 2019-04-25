@@ -9,6 +9,7 @@ Herhangi bir PHP derleyicisi ile MySQL phpmyadmin kullanarak SQL dosyasını ve 
 [Mockaroo](https://mockaroo.com/) lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
 
 ## Proje Detayı ve Screenshots
+![alt text](https://raw.githubusercontent.com/mervfar/online-bankacilik/master/Screenshot_1.png)
 ## License
 MIT
 
