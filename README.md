@@ -19,7 +19,8 @@ Herhangi bir PHP derleyicisi ile MySQL phpmyadmin kullanarak SQL dosyasını ve 
 ![alt text](https://raw.githubusercontent.com/mervfar/online-bankacilik/master/Screenshot_8.png)
 ![alt text](https://raw.githubusercontent.com/mervfar/online-bankacilik/master/Screenshot_9.png)
 ## License
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 ## Thanks for
 [zakee94](https://github.com/zakee94/) <br>
