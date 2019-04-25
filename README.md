@@ -12,6 +12,6 @@ Herhangi bir PHP derleyicisi ile MySQL phpmyadmin kullanarak SQL dosyasını ve 
 ## License
 MIT
 
-Thanks for
+## Thanks for
 [zakee94](https://github.com/zakee94/) <br>
 [Online Banking System](https://github.com/zakee94/online-banking-system)
